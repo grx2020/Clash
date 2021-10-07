@@ -98,26 +98,26 @@ proxies:
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21, server: 134.195.198.252, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇩🇪 cfmem.com_🇩🇪_DE_德国_8, server: 193.108.118.34, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_41, server: 66.115.177.143, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.172, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇬🇧 英国(), server: 193.118.60.172, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3, server: 103.249.31.29, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
   - {name: 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2, server: 118.107.244.113, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_13, server: 167.88.63.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6, server: ruml.jjyun.ren, port: 80, type: vmess, uuid: 1fbb8679-cd74-46c9-8f9f-8aa2fcc94722, alterId: 10, cipher: auto, tls: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ruml.jjyun.ren}}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2, server: 193.118.60.175, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3, server: 193.118.60.167, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君), server: t8.ssrsub.com, port: 8443, type: trojan, password: 683ec608-5af9-4f91-bd5b-ce493307fe56, sni: t8.ssrsub.com}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4, server: 193.118.60.168, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇬🇧 英国() 2, server: 193.118.60.175, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇬🇧 英国() 3, server: 193.118.60.167, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大(), server: t8.ssrsub.com, port: 8443, type: trojan, password: 683ec608-5af9-4f91-bd5b-ce493307fe56, sni: t8.ssrsub.com}
+  - {name: 🇬🇧 英国() 4, server: 193.118.60.168, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_35, server: 66.115.177.156, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2, server: 5.157.13.94, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.149, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国(), server: 38.107.226.149, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_25, server: 66.115.177.156, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
-  - {name: 欧洲(欢迎订阅Youtube破解资源君), server: 172.105.167.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 欧洲(), server: 172.105.167.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27, server: 134.195.196.81, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2, server: 63.141.236.245, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3, server: 172.99.190.167, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国() 2, server: 63.141.236.245, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 美国() 3, server: 172.99.190.167, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_42, server: 66.115.177.143, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4, server: 79.110.54.133, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5, server: 167.88.63.119, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国() 4, server: 79.110.54.133, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇺🇸 美国() 5, server: 167.88.63.119, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2, server: 66.115.177.156, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_21, server: 199.10.64.243, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2, server: 167.88.63.82, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
@@ -125,70 +125,70 @@ proxies:
   - {name: 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2, server: 103.249.31.29, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
   - {name: 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2, server: 103.249.31.29, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_51, server: 79.110.54.117, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2, server: 134.195.198.250, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇨🇦 加拿大() 2, server: 134.195.198.250, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_3, server: c23s801.jamjams.net, port: 61173, type: vmess, uuid: 9d1043a6-e87e-4bb7-8858-c1185e9c0c3b, alterId: 8, cipher: auto, tls: false}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_63, server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_46, server: 167.88.63.11, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2, server: 167.88.63.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1, server: 82.102.26.93, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6, server: 167.88.63.108, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国() 6, server: 167.88.63.108, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2, server: 198.57.27.238, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4, server: 79.110.54.133, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2, server: 198.57.27.247, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3, server: ss5.ssrsub.com, port: 40443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇨🇦 加拿大() 3, server: ss5.ssrsub.com, port: 40443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2, server: 198.57.27.247, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4, server: 134.195.196.130, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 加拿大() 4, server: 134.195.196.130, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1, server: 146.70.28.94, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2, server: 66.115.177.141, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
   - {name: 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3, server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇫🇷 法国(欢迎订阅Youtube破解资源君), server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇫🇷 法国(), server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2, server: 167.88.63.74, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5, server: 198.57.27.233, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 美国() 7, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大() 5, server: 198.57.27.233, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_18, server: 66.115.177.141, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6, server: 134.195.196.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 加拿大() 6, server: 134.195.196.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12, server: 82.102.26.93, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3, server: 82.102.26.93, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16, server: 198.57.27.233, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4, server: 91.90.123.150, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
   - {name: 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6, server: 103.249.31.29, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3, server: 167.88.63.108, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8, server: 185.246.209.55, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 美国() 8, server: 185.246.209.55, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28, server: 134.195.196.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8, server: 198.57.27.218, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 加拿大() 7, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大() 8, server: 198.57.27.218, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇬🇧 cfmem.com_🇬🇧_GB_英国_2, server: 89.238.130.227, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2, server: 82.102.26.93, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2, server: 66.115.177.141, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2, server: 66.115.177.143, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 欧洲(欢迎订阅Youtube破解资源君) 2, server: agals01.cloudddns.icu, port: 1123, type: trojan, password: f45d308f-d9bc-3954-982f-40883392fb8e, sni: agals01.cloudddns.icu}
+  - {name: 欧洲() 2, server: agals01.cloudddns.icu, port: 1123, type: trojan, password: f45d308f-d9bc-3954-982f-40883392fb8e, sni: agals01.cloudddns.icu}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9, server: 198.57.27.218, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇩🇪 cfmem.com_🇩🇪_DE_德国_3, server: 193.108.118.34, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10, server: 103.249.31.29, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: 🇮🇳 印度(欢迎订阅Youtube破解资源君), server: 172.105.55.72, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇮🇳 印度(), server: 172.105.55.72, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_9, server: 66.115.177.143, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9, server: 134.195.196.71, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10, server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇰🇷 韩国(欢迎订阅Youtube破解资源君), server: 103.249.31.29, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2, server: 172.105.42.160, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大() 9, server: 134.195.196.71, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 加拿大() 10, server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇰🇷 韩国(), server: 103.249.31.29, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇮🇳 印度() 2, server: 172.105.42.160, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2, server: 198.57.27.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11, server: 134.195.196.110, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 加拿大() 11, server: 134.195.196.110, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2, server: 66.115.177.141, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3, server: 167.88.63.61, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3, server: 66.115.177.141, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9, server: 172.99.190.57, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10, server: 172.99.190.109, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 美国() 9, server: 172.99.190.57, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国() 10, server: 172.99.190.109, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2, server: 82.102.26.93, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
   - {name: 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13, server: 82.102.26.93, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2, server: 82.102.26.93, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
   - {name: 🇩🇪 cfmem.com_🇩🇪_DE_德国_2, server: 193.108.118.2, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 欧洲(欢迎订阅Youtube破解资源君) 3, server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11, server: 172.99.190.186, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 欧洲() 3, server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国() 11, server: 172.99.190.186, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5, server: 103.249.31.29, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
   - {name: 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8, server: 103.249.31.29, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_15, server: 66.115.177.156, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_60, server: 212.102.61.138, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3, server: 103.39.134.62, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇮🇳 印度() 3, server: 103.39.134.62, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
   - {name: 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5, server: ruml.jjyun.ren, port: 80, type: vmess, uuid: 3c24b6f3-69be-4128-bf61-d97f4443e1dc, alterId: 10, cipher: auto, tls: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ruml.jjyun.ren}}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_29, server: 79.110.54.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
   - {name: 🇺🇸 cfmem.com_🇺🇸_US_美国_30, server: 79.110.54.133, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
@@ -295,26 +295,26 @@ proxy-groups:
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_41
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国()
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_13
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国() 2
+      - 🇬🇧 英国() 3
+      - 🇨🇦 加拿大()
+      - 🇬🇧 英国() 4
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_35
       - 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_25
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲()
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国() 2
+      - 🇺🇸 美国() 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_42
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 4
+      - 🇺🇸 美国() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_21
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2
@@ -322,70 +322,70 @@ proxy-groups:
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_51
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_63
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_46
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国() 6
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇦 加拿大() 3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇦 加拿大() 4
       - 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3
-      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇫🇷 法国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 7
+      - 🇨🇦 加拿大() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_18
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇦 加拿大() 6
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16
       - 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国() 8
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8
+      - 🇨🇦 加拿大() 7
+      - 🇨🇦 加拿大() 8
       - 🇬🇧 cfmem.com_🇬🇧_GB_英国_2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2
-      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_3
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君)
+      - 🇮🇳 印度()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10
-      - 🇰🇷 韩国(欢迎订阅Youtube破解资源君)
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 9
+      - 🇨🇦 加拿大() 10
+      - 🇰🇷 韩国()
+      - 🇮🇳 印度() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇦 加拿大() 11
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国() 9
+      - 🇺🇸 美国() 10
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_2
-      - 欧洲(欢迎订阅Youtube破解资源君) 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 欧洲() 3
+      - 🇺🇸 美国() 11
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_15
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_60
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3
+      - 🇮🇳 印度() 3
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_29
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_30
@@ -491,26 +491,26 @@ proxy-groups:
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_41
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国()
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_13
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国() 2
+      - 🇬🇧 英国() 3
+      - 🇨🇦 加拿大()
+      - 🇬🇧 英国() 4
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_35
       - 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_25
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲()
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国() 2
+      - 🇺🇸 美国() 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_42
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 4
+      - 🇺🇸 美国() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_21
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2
@@ -518,70 +518,70 @@ proxy-groups:
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_51
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_63
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_46
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国() 6
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇦 加拿大() 3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇦 加拿大() 4
       - 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3
-      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇫🇷 法国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 7
+      - 🇨🇦 加拿大() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_18
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇦 加拿大() 6
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16
       - 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国() 8
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8
+      - 🇨🇦 加拿大() 7
+      - 🇨🇦 加拿大() 8
       - 🇬🇧 cfmem.com_🇬🇧_GB_英国_2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2
-      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_3
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君)
+      - 🇮🇳 印度()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10
-      - 🇰🇷 韩国(欢迎订阅Youtube破解资源君)
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 9
+      - 🇨🇦 加拿大() 10
+      - 🇰🇷 韩国()
+      - 🇮🇳 印度() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇦 加拿大() 11
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国() 9
+      - 🇺🇸 美国() 10
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_2
-      - 欧洲(欢迎订阅Youtube破解资源君) 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 欧洲() 3
+      - 🇺🇸 美国() 11
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_15
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_60
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3
+      - 🇮🇳 印度() 3
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_29
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_30
@@ -688,26 +688,26 @@ proxy-groups:
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_41
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国()
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_13
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国() 2
+      - 🇬🇧 英国() 3
+      - 🇨🇦 加拿大()
+      - 🇬🇧 英国() 4
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_35
       - 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_25
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲()
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国() 2
+      - 🇺🇸 美国() 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_42
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 4
+      - 🇺🇸 美国() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_21
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2
@@ -715,70 +715,70 @@ proxy-groups:
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_51
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_63
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_46
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国() 6
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇦 加拿大() 3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇦 加拿大() 4
       - 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3
-      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇫🇷 法国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 7
+      - 🇨🇦 加拿大() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_18
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇦 加拿大() 6
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16
       - 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国() 8
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8
+      - 🇨🇦 加拿大() 7
+      - 🇨🇦 加拿大() 8
       - 🇬🇧 cfmem.com_🇬🇧_GB_英国_2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2
-      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_3
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君)
+      - 🇮🇳 印度()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10
-      - 🇰🇷 韩国(欢迎订阅Youtube破解资源君)
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 9
+      - 🇨🇦 加拿大() 10
+      - 🇰🇷 韩国()
+      - 🇮🇳 印度() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇦 加拿大() 11
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国() 9
+      - 🇺🇸 美国() 10
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_2
-      - 欧洲(欢迎订阅Youtube破解资源君) 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 欧洲() 3
+      - 🇺🇸 美国() 11
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_15
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_60
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3
+      - 🇮🇳 印度() 3
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_29
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_30
@@ -895,26 +895,26 @@ proxy-groups:
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_41
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国()
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_13
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国() 2
+      - 🇬🇧 英国() 3
+      - 🇨🇦 加拿大()
+      - 🇬🇧 英国() 4
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_35
       - 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_25
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲()
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国() 2
+      - 🇺🇸 美国() 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_42
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 4
+      - 🇺🇸 美国() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_21
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2
@@ -922,70 +922,70 @@ proxy-groups:
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_51
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_63
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_46
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国() 6
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇦 加拿大() 3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇦 加拿大() 4
       - 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3
-      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇫🇷 法国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 7
+      - 🇨🇦 加拿大() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_18
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇦 加拿大() 6
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16
       - 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国() 8
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8
+      - 🇨🇦 加拿大() 7
+      - 🇨🇦 加拿大() 8
       - 🇬🇧 cfmem.com_🇬🇧_GB_英国_2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2
-      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_3
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君)
+      - 🇮🇳 印度()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10
-      - 🇰🇷 韩国(欢迎订阅Youtube破解资源君)
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 9
+      - 🇨🇦 加拿大() 10
+      - 🇰🇷 韩国()
+      - 🇮🇳 印度() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇦 加拿大() 11
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国() 9
+      - 🇺🇸 美国() 10
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_2
-      - 欧洲(欢迎订阅Youtube破解资源君) 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 欧洲() 3
+      - 🇺🇸 美国() 11
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_15
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_60
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3
+      - 🇮🇳 印度() 3
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_29
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_30
@@ -1091,26 +1091,26 @@ proxy-groups:
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_41
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国()
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_13
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国() 2
+      - 🇬🇧 英国() 3
+      - 🇨🇦 加拿大()
+      - 🇬🇧 英国() 4
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_35
       - 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_25
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲()
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国() 2
+      - 🇺🇸 美国() 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_42
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 4
+      - 🇺🇸 美国() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_21
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2
@@ -1118,70 +1118,70 @@ proxy-groups:
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_51
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_63
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_46
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国() 6
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇦 加拿大() 3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇦 加拿大() 4
       - 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3
-      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇫🇷 法国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 7
+      - 🇨🇦 加拿大() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_18
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇦 加拿大() 6
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16
       - 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国() 8
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8
+      - 🇨🇦 加拿大() 7
+      - 🇨🇦 加拿大() 8
       - 🇬🇧 cfmem.com_🇬🇧_GB_英国_2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2
-      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_3
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君)
+      - 🇮🇳 印度()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10
-      - 🇰🇷 韩国(欢迎订阅Youtube破解资源君)
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 9
+      - 🇨🇦 加拿大() 10
+      - 🇰🇷 韩国()
+      - 🇮🇳 印度() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇦 加拿大() 11
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国() 9
+      - 🇺🇸 美国() 10
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_2
-      - 欧洲(欢迎订阅Youtube破解资源君) 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 欧洲() 3
+      - 🇺🇸 美国() 11
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_15
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_60
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3
+      - 🇮🇳 印度() 3
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_29
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_30
@@ -1288,26 +1288,26 @@ proxy-groups:
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_41
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国()
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_13
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国() 2
+      - 🇬🇧 英国() 3
+      - 🇨🇦 加拿大()
+      - 🇬🇧 英国() 4
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_35
       - 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_25
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲()
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国() 2
+      - 🇺🇸 美国() 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_42
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 4
+      - 🇺🇸 美国() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_21
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2
@@ -1315,70 +1315,70 @@ proxy-groups:
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_51
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_63
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_46
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国() 6
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇦 加拿大() 3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇦 加拿大() 4
       - 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3
-      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇫🇷 法国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 7
+      - 🇨🇦 加拿大() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_18
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇦 加拿大() 6
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16
       - 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国() 8
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8
+      - 🇨🇦 加拿大() 7
+      - 🇨🇦 加拿大() 8
       - 🇬🇧 cfmem.com_🇬🇧_GB_英国_2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2
-      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_3
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君)
+      - 🇮🇳 印度()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10
-      - 🇰🇷 韩国(欢迎订阅Youtube破解资源君)
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 9
+      - 🇨🇦 加拿大() 10
+      - 🇰🇷 韩国()
+      - 🇮🇳 印度() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇦 加拿大() 11
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国() 9
+      - 🇺🇸 美国() 10
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_2
-      - 欧洲(欢迎订阅Youtube破解资源君) 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 欧洲() 3
+      - 🇺🇸 美国() 11
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_15
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_60
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3
+      - 🇮🇳 印度() 3
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_29
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_30
@@ -1494,26 +1494,26 @@ proxy-groups:
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_21
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_41
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国()
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_1 3
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_13
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国() 2
+      - 🇬🇧 英国() 3
+      - 🇨🇦 加拿大()
+      - 🇬🇧 英国() 4
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_35
       - 🇮🇪 cfmem.com_🇮🇪_IE_爱尔兰_1 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_25
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲()
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_27
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国() 2
+      - 🇺🇸 美国() 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_42
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 4
+      - 🇺🇸 美国() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_4 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_21
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_8 2
@@ -1521,70 +1521,70 @@ proxy-groups:
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_2 2
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_3 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_51
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_63
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_46
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_66 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_1
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国() 6
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_5 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_19 4
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_26 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇦 加拿大() 3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_18 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇦 加拿大() 4
       - 🇦🇹 cfmem.com_🇦🇹_AT_奥地利_1
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_67 2
       - 🇭🇰 cfmem.com_🇭🇰_HK_香港_1 3
-      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇫🇷 法国()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_26 2
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国() 7
+      - 🇨🇦 加拿大() 5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_18
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇦 加拿大() 6
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_12
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_3
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_16
       - 🇧🇪 cfmem.com_🇧🇪_BE_比利时_4
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_6
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_33 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国() 8
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_28
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 8
+      - 🇨🇦 加拿大() 7
+      - 🇨🇦 加拿大() 8
       - 🇬🇧 cfmem.com_🇬🇧_GB_英国_2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_12 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_31 2
-      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_9
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_3
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_10
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君)
+      - 🇮🇳 印度()
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 9
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 10
-      - 🇰🇷 韩国(欢迎订阅Youtube破解资源君)
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大() 9
+      - 🇨🇦 加拿大() 10
+      - 🇰🇷 韩国()
+      - 🇮🇳 印度() 2
       - 🇨🇦 cfmem.com_🇨🇦_CA_加拿大_1 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇦 加拿大() 11
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_38 2
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_48 3
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_10 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国() 9
+      - 🇺🇸 美国() 10
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_5 2
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_13
       - 🇮🇹 cfmem.com_🇮🇹_IT_意大利_4 2
       - 🇩🇪 cfmem.com_🇩🇪_DE_德国_2
-      - 欧洲(欢迎订阅Youtube破解资源君) 3
-      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 欧洲() 3
+      - 🇺🇸 美国() 11
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_5
       - 🇰🇷 cfmem.com_🇰🇷_KR_韩国_8
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_15
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_60
-      - 🇮🇳 印度(欢迎订阅Youtube破解资源君) 3
+      - 🇮🇳 印度() 3
       - 🇷🇺 cfmem.com_🇷🇺_RU_俄罗斯联邦_5
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_29
       - 🇺🇸 cfmem.com_🇺🇸_US_美国_30
